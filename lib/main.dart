@@ -69,7 +69,7 @@ class _CharacterListScreenState extends State<CharacterListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Rick and Morty Characters'),
+        title: Text('Rick and Morty Character'),
         backgroundColor: Colors.green,
       ),
       body: Container(
