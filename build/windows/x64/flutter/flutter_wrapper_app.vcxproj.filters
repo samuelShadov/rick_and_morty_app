@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08D9A147-30EA-3BDF-83E6-1A47D23A486B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{25CBD88A-134A-3322-BB6F-2FFEDA72332A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+ C:\\Users\\Evgeny\ Shadov\\Desktop\\S2AM\\M8\\ICB0-M08U01I03\ -\ Llista\ de\ Personatges\\rick_and_morty_app\\.dart_tool\\flutter_build\\c3601758f8f2717e7aa75bab5077b44b\\native_assets.yaml: 

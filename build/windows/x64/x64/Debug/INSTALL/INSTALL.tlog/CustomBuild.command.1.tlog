@@ -1,0 +1,10 @@
+^C:\USERS\EVGENY SHADOV\DESKTOP\S2AM\M8\ICB0-M08U01I03 - LLISTA DE PERSONATGES\RICK_AND_MORTY_APP\BUILD\WINDOWS\X64\CMAKEFILES\C1D3DE124605FF5A77D19E299C40D5C9\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

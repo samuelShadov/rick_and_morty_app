@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Evgeny Shadov\Desktop\S2AM\M8\ICB0-M08U01I03 - Llista de Personatges\rick_and_morty_app\build\windows\x64\CMakeFiles\53fb6f388fa6ea57b47eb4a09af85290\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08D9A147-30EA-3BDF-83E6-1A47D23A486B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
